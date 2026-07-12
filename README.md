@@ -1,28 +1,30 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=2B91AD&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohammed+Hamza;Data+Analytics+Engineer+%7C+Ex.+Project+Manager;+I+work+with+Python%2C+SQL%2C+Power+BI%2C+and+Excel.;%F0%9F%92%BC+Open+to+Data+Analyst+Opportunities.)](https://git.io/typing-svg)
  
-## 🐍 About Me.py
+ ## 👨‍💻 About Me
 
+```python
 class DataProfessional:
+
     def __init__(self):
         self.name = "Mohammed Hamza"
-        self.current_role = "Data Analyst"
-        self.location = "Khobar, Saudi Arabia"
+        self.role = "Data Analyst"
+        self.location = "Khobar, Saudi Arabia 🇸🇦"
+
         self.languages = ["Arabic", "English"]
 
-        self.about = (
-            "Passionate Data Analyst with a background in IT Project Management "
-            "and Business Intelligence. I enjoy transforming raw data into"
-            "meaningful insights through analytics and interactive dashboards."
+        self.certification = (
+            "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
         )
 
-        self.certifications = [
-            "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
-        ]
+        self.background = (
+            "Former IT Project Manager with 5+ years of experience, "
+            "now specializing in Data Analytics and Business Intelligence."
+        )
 
         self.currently_learning = [
             "Advanced SQL",
             "Python for Data Analysis",
-            "AI Analytics Engineer",
+            "AI Analytics",
             "Data Engineering",
             "Microsoft Fabric"
         ]
@@ -47,7 +49,7 @@ class DataProfessional:
             "Databases": [
                 "SQL Server"
             ],
-            "Version Control": [
+            "Tools": [
                 "Git",
                 "GitHub"
             ]
@@ -55,10 +57,11 @@ class DataProfessional:
 
     def say_hello(self):
         print(f"Hi 👋, I'm {self.name}")
-        print(f"Role: {self.current_role}")
-        print(self.about)
-        print(f"Currently Learning: {', '.join(self.currently_learning)}")
+        print(f"Role: {self.role}")
+        print("Transforming data into actionable insights.")
+        print(f"Currently learning: {', '.join(self.currently_learning)}")
 
 
 me = DataProfessional()
 me.say_hello()
+```
