@@ -12,19 +12,24 @@ class DataProfessional:
 
         self.languages = ["Arabic", "English"]
 
- self.certification_preparation = [
-    "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
- ]
+        self.experience = {
+            "Project Management": "5+ Years",
+            "Data Analytics": "Specializing in Business Intelligence and Analytics"
+        }
+
+        self.certification_preparation = [
+            "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
+        ]
+
         self.background = (
-            "Former IT Project Manager with 5+ years of experience, "
+            "Former Project Manager with 5+ years of experience in projects management, "
             "now specializing in Data Analytics and Business Intelligence."
         )
 
         self.currently_learning = [
             "Advanced SQL",
             "Python for Data Analysis",
-            "AI Analytics",
-            "Data Engineering",
+            "AI Analytics Engineer",
             "Microsoft Fabric"
         ]
 
@@ -49,7 +54,7 @@ class DataProfessional:
                 "SQL Server"
             ],
             "Tools": [
-                "Git",
+                "VS Code",
                 "GitHub"
             ]
         }
@@ -57,6 +62,7 @@ class DataProfessional:
     def say_hello(self):
         print(f"Hi 👋, I'm {self.name}")
         print(f"Role: {self.role}")
+        print(f"Previous Experience: {self.experience['Project Management']} in IT Project Management")
         print("Transforming data into actionable insights.")
         print(f"Currently learning: {', '.join(self.currently_learning)}")
 
@@ -68,5 +74,26 @@ me.say_hello()
 ## 🎓 Education
 
 - **Bachelor’s Degree in Information Technologies - Cairo University 2010-2013 ✅**
+
+## 🎓 Education & Professional Development
+
+### 📚 Courses
+
+- 🎓 **Professional AI Analytics Engineer Diploma** – Mazen Analytics *(In Progress)*
+- 🎓 **Professional Data Analyst Diploma[110 H]** – AI Coding Academy
+  - SQL Server
+  - Python for Data Analysis
+  - Power BI
+  - Tableau
+  - Microsoft Excel
+  - Statistics for Data Analysis
+  - Business Intelligence
+
+### 🏆 Certifications
+
+- 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** *(In Progress)*
+- 📜 **Oracle Databases Certificate** – IT e Share Academy
+- 📜 **Project Management Professional**  (PMP-35H) – PM-Tricks
+
  
 
