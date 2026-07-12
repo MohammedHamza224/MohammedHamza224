@@ -64,9 +64,9 @@ class DataProfessional:
 me = DataProfessional()
 me.say_hello()
 ```
+
 ## 🎓 Education
 
-- **Bachelor's Degree in Information Systems**
-- **[Cairo University]**
-- Graduation Year: 2013
+- **Bachelor’s Degree in Information Technologies - Cairo University 2010-2013 ✅**
+ 
 
