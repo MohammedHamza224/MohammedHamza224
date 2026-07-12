@@ -3,7 +3,6 @@
 ## 🐍 About Me.py
 
 class DataProfessional:
-
     def __init__(self):
         self.name = "Mohammed Hamza"
         self.current_role = "Data Analyst"
@@ -12,7 +11,7 @@ class DataProfessional:
 
         self.about = (
             "Passionate Data Analyst with a background in IT Project Management "
-            "and Business Intelligence. I enjoy transforming raw data into "
+            "and Business Intelligence. I enjoy transforming raw data into"
             "meaningful insights through analytics and interactive dashboards."
         )
 
@@ -23,6 +22,7 @@ class DataProfessional:
         self.currently_learning = [
             "Advanced SQL",
             "Python for Data Analysis",
+            "AI Analytics Engineer",
             "Data Engineering",
             "Microsoft Fabric"
         ]
