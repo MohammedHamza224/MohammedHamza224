@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi!%F0%9F%91%8B++I'm+Data+Analytics+Engineer++;I+work+With+Python+%2C+SQL+%2C+and+Bower+BI;+)](https://git.io/typing-svg)
 <!--
 **MohammedHamza224/MohammedHamza224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
