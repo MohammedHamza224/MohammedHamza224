@@ -34,6 +34,7 @@ class DataProfessional:
             "Advanced SQL",
             "Python for Data Analysis",
             "AI Analytics Engineer",
+            "Data Engineering",
             "Microsoft Fabric"
         ]
 
