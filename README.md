@@ -1,5 +1,4 @@
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=+I'm+Data+Analytics+Engineer++;I+work+With+Python+%2C+SQL+%2C+and+Bower+BI;+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohammed+Hamza;+%F0%9F%93%8A+Data+Analyst+%7C+Microsoft+Certified+PL-300;+I+work+with+Python%2C+SQL%2C+Power+BI%2C+and+Excel.;%F0%9F%92%BC+Open+to+Data+Analyst+Opportunities.)](https://git.io/typing-svg)
  
 
  
