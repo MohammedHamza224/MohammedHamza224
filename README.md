@@ -12,10 +12,9 @@ class DataProfessional:
 
         self.languages = ["Arabic", "English"]
 
-        self.certification = (
-            "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
-        )
-
+ self.certification_preparation = [
+    "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
+ ]
         self.background = (
             "Former IT Project Manager with 5+ years of experience, "
             "now specializing in Data Analytics and Business Intelligence."
