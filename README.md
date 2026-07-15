@@ -101,10 +101,6 @@ me.say_hello()
 - 📜 **Project Management Professional**  (PMP-35H) – PM-Tricks
 ## 🛠️ Languages and Tools
  <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,mysql&theme=light" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
@@ -114,4 +110,5 @@ me.say_hello()
   <img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Power_Query-00B294?style=flat-square"/>
   <img src="https://img.shields.io/badge/Microsoft_Fabric-6F2DBD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
