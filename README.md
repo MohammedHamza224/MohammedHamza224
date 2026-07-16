@@ -78,7 +78,7 @@ me.say_hello()
 
 ## 🎓 Education
 
-- **Bachelor’s Degree in Information Technologies - Cairo University 2013 ✅**
+- **Bachelor’s Degree in Information Technologies - Cairo University - 2013 ✅**
 
 ## 🎓 Education & Professional Development
 
