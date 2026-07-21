@@ -112,3 +112,21 @@ me.say_hello()
   <img src="https://img.shields.io/badge/Microsoft_Fabric-6F2DBD?style=flat-square"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=26&fontColor=FFFFFF&color=0:1D4ED8,100:1E40AF&animation=fadeIn"/>
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=01258F&center=true&vCenter=true&width=500&lines=Turning+Data+into+Business+Value" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=01258F&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80" />
+</p>
+
+</div>
