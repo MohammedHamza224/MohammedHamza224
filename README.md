@@ -102,8 +102,6 @@ me.say_hello()
 
  ## 📊 Featured Data Analytics Projects
 
- ## 📊 Featured Data Analytics Projects
-
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|------------|------------|
 | ☕ Coffee Shop Sales Analysis | Analyzed sales trends, customer purchasing behavior, and profitability through an interactive Power BI dashboard. | Power BI • DAX | [View Project](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI) |
