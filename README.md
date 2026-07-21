@@ -101,16 +101,15 @@ me.say_hello()
 - 📜 **Project Management Professional**  (PMP-35H) – PM-Tricks
 
  ## 📊 Featured Data Analytics Projects
- ## 📊 Data Analytics & Business Intelligence
-
+ 
 | Project | Description | Tech Stack |
 |:--------|:------------|:----------|
-| 👥 **[HR Attrition Dashboard](https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI)** | Workforce analytics for retention, turnover & employee insights. | `Power BI` `DAX` |
-| ☕ **[Coffee Shop Sales Analysis](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI)** | Interactive dashboard analyzing sales trends, customer behavior & profitability. | `Power BI` `DAX` |
-| 🚗 **[Car Sales Dashboard](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard)** | Executive dashboard tracking vehicle sales, revenue & KPIs. | `Power BI` `SQL` `DAX` |
+| 👥 **[HR Attrition Dashboard](https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI)** | Workforce analytics for retention, turnover, and employee insights. | `Power BI` `DAX` |
+| ☕ **[Coffee Shop Sales Analysis](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI)** | Interactive dashboard analyzing sales trends, customer behavior, and profitability. | `Power BI` `DAX` |
+| 🚗 **[Car Sales Dashboard](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard)** | Executive dashboard tracking vehicle sales, revenue, and key business KPIs. | `Power BI` `SQL` `DAX` |
+| 🌍 **[Global Terrorism Analytics](https://github.com/MohammedHamza224/Data-Analysis-for-Global-Terrorism)** | Exploratory data analysis uncovering global terrorism trends, regional patterns, and attack insights. | `Python` `Pandas` `Matplotlib` `Seaborn` |
 | 🦴 **[Bone Marrow Cancer Analytics](https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis)** | Exploratory medical data analysis using Python visualizations. | `Python` `Pandas` `Matplotlib` |
-| 🦴 Bone Marrow Cancer Analytics | Performed exploratory data analysis (EDA) to uncover medical insights using Python and data visualization. | `Python` `Pandas` `Matplotlib` | [View Project]( https://github.com/MohammedHamza224/Data-Analysis-for-Global-Terrorism) |
-| 🏥 **[Hospital Performance](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard)** | Healthcare analytics monitoring operations & patient performance. | `Power BI` `Power Query` |
+| 🏥 **[Hospital Performance Dashboard](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard)** | Healthcare analytics monitoring hospital operations, patient flow, and performance metrics. | `Power BI` `Power Query` |
  
  
  
