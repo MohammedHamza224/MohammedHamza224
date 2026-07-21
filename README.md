@@ -99,6 +99,19 @@ me.say_hello()
 - 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** *(In Progress)*
 - 📜 **Oracle Databases Certificate** – IT e Share Academy
 - 📜 **Project Management Professional**  (PMP-35H) – PM-Tricks
+
+ ## 📊 Featured Data Analytics Projects
+
+ ## 📊 Featured Data Analytics Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| ☕ Coffee Shop Sales Analysis | Analyzed sales trends, customer purchasing behavior, and profitability through an interactive Power BI dashboard. | Power BI • DAX | [View Project](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI) |
+| 🚗 Car Sales Analytics Dashboard | Built an executive dashboard to monitor vehicle sales performance, revenue, and key business KPIs. | Power BI • DAX • SQL | [View Project](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard- ) |
+| 🏥 Hospital Performance Dashboard | Visualized hospital operations, patient flow, and healthcare performance metrics for data-driven decision-making. | Power BI • Power Query | [View Project](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard) |
+| 👥 HR Attrition Dashboard | Analyzed employee attrition, workforce demographics, and retention trends using HR analytics. | Power BI • DAX | [View Project]( https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI) |
+| 🦴 Bone Marrow Cancer Analytics | Performed exploratory data analysis (EDA) to uncover medical insights using Python and data visualization. | Python • Pandas • Matplotlib | [View Project]( https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis) |
+
 ## 🛠️ Languages and Tools
  <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
