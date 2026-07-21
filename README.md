@@ -106,9 +106,10 @@ me.say_hello()
 |---------|-------------|------------|------------|
 | ☕ Coffee Shop Sales Analysis | Analyzed sales trends, customer purchasing behavior, and profitability through an interactive Power BI dashboard. | Power BI • DAX | [View Project](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI) |
 | 🚗 Car Sales Analytics Dashboard | Built an executive dashboard to monitor vehicle sales performance, revenue, and key business KPIs. | Power BI • DAX • SQL | [View Project](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard- ) |
+| 🦴 Bone Marrow Cancer Analytics | Performed exploratory data analysis (EDA) to uncover medical insights using Python and data visualization. | Python • Pandas • Matplotlib | [View Project]( https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis) |
 | 🏥 Hospital Performance Dashboard | Visualized hospital operations, patient flow, and healthcare performance metrics for data-driven decision-making. | Power BI • Power Query | [View Project](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard) |
 | 👥 HR Attrition Dashboard | Analyzed employee attrition, workforce demographics, and retention trends using HR analytics. | Power BI • DAX | [View Project]( https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI) |
-| 🦴 Bone Marrow Cancer Analytics | Performed exploratory data analysis (EDA) to uncover medical insights using Python and data visualization. | Python • Pandas • Matplotlib | [View Project]( https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis) |
+ 
 
 ## 🛠️ Languages and Tools
  <p align="left">
