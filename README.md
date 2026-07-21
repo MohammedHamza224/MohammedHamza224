@@ -101,14 +101,18 @@ me.say_hello()
 - 📜 **Project Management Professional**  (PMP-35H) – PM-Tricks
 
  ## 📊 Featured Data Analytics Projects
+ ## 📊 Data Analytics & Business Intelligence
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| ☕ Coffee Shop Sales Analysis | Analyzed sales trends, customer purchasing behavior, and profitability through an interactive Power BI dashboard. | Power BI • DAX | [View Project](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI) |
-| 🚗 Car Sales Analytics Dashboard | Built an executive dashboard to monitor vehicle sales performance, revenue, and key business KPIs. | Power BI • DAX • SQL | [View Project](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard- ) |
-| 🦴 Bone Marrow Cancer Analytics | Performed exploratory data analysis (EDA) to uncover medical insights using Python and data visualization. | Python • Pandas • Matplotlib | [View Project]( https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis) |
-| 🏥 Hospital Performance Dashboard | Visualized hospital operations, patient flow, and healthcare performance metrics for data-driven decision-making. | Power BI • Power Query | [View Project](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard) |
-| 👥 HR Attrition Dashboard | Analyzed employee attrition, workforce demographics, and retention trends using HR analytics. | Power BI • DAX | [View Project]( https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI) |
+| Project | Description | Tech Stack |
+|:--------|:------------|:----------|
+| 👥 **[HR Attrition Dashboard](https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI)** | Workforce analytics for retention, turnover & employee insights. | `Power BI` `DAX` |
+| ☕ **[Coffee Shop Sales Analysis](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI)** | Interactive dashboard analyzing sales trends, customer behavior & profitability. | `Power BI` `DAX` |
+| 🚗 **[Car Sales Dashboard](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard)** | Executive dashboard tracking vehicle sales, revenue & KPIs. | `Power BI` `SQL` `DAX` |
+| 🦴 **[Bone Marrow Cancer Analytics](https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis)** | Exploratory medical data analysis using Python visualizations. | `Python` `Pandas` `Matplotlib` |
+| 🦴 Bone Marrow Cancer Analytics | Performed exploratory data analysis (EDA) to uncover medical insights using Python and data visualization. | `Python` `Pandas` `Matplotlib` | [View Project]( https://github.com/MohammedHamza224/Data-Analysis-for-Global-Terrorism) |
+| 🏥 **[Hospital Performance](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard)** | Healthcare analytics monitoring operations & patient performance. | `Power BI` `Power Query` |
+ 
+ 
  
 
 ## 🛠️ Languages and Tools
