@@ -2,7 +2,7 @@
   <img src="Hamza.png" alt="Mohammed Hamza Banner" width="100%" height="450">
 </p>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=2B91AD&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohammed+Hamza;Data+Analyst+%7C+Ex.+Project+Manager;+I+work+with+Python%2C+SQL%2C+Power+BI%2C+and+Excel.;%F0%9F%92%BC+Open+to+Data+Analyst+Opportunities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=0231BD&width=435&lines=AI+Analytics+Eng.%7C+Data+Analyst+%7C+Ex.Project+Manager;ETL+Pipelines+%26+Workflow+Automation+Expert;Python%2C+SQL%2C+Power+BI%2C+and+advanced+Excel.;%F0%9F%92%BC+Open+to+Data+Analyst+Opportunities.)](https://git.io/typing-svg)
  
  ## 👨‍💻 About Me
 
