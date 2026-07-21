@@ -117,7 +117,7 @@ me.say_hello()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=26&fontColor=FFFFFF&color=0:1D4ED8,100:1E40AF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFD700&color=0:1D4ED8,100:1E40AF&animation=fadeIn"/>
 
 </div>
 
@@ -127,6 +127,6 @@ me.say_hello()
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=01258F&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80" />
-</p>
+
 
 </div>
