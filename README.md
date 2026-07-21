@@ -102,14 +102,14 @@ me.say_hello()
 
  ## 📊 Featured Data Analytics Projects
  
-| Project | Description | Tech Stack |
+ | Project | Description | Tech Stack |
 |:--------|:------------|:----------|
-| 👥 **[HR Attrition Dashboard](https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI)** | Workforce analytics for retention, turnover, and employee insights. | `Power BI` `DAX` |
-| ☕ **[Coffee Shop Sales Analysis](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI)** | Interactive dashboard analyzing sales trends, customer behavior, and profitability. | `Power BI` `DAX` |
-| 🚗 **[Car Sales Dashboard](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard)** | Executive dashboard tracking vehicle sales, revenue, and key business KPIs. | `Power BI` `SQL` `DAX` |
-| 🌍 **[Global Terrorism Analytics](https://github.com/MohammedHamza224/Data-Analysis-for-Global-Terrorism)** | Exploratory data analysis uncovering global terrorism trends, regional patterns, and attack insights. | `Python` `Pandas` `Matplotlib` `Seaborn` |
-| 🦴 **[Bone Marrow Cancer Analytics](https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis)** | Exploratory medical data analysis using Python visualizations. | `Python` `Pandas` `Matplotlib` |
-| 🏥 **[Hospital Performance Dashboard](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard)** | Healthcare analytics monitoring hospital operations, patient flow, and performance metrics. | `Power BI` `Power Query` |
+| 👥 **[HR Attrition Dashboard](https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI)** | <sub>Workforce analytics for retention, turnover, and employee insights.</sub> | <sub>`Power BI` `DAX`</sub> |
+| ☕ **[Coffee Shop Sales Analysis](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI)** | <sub>Interactive dashboard analyzing sales trends, customer behavior, and profitability.</sub> | <sub>`Power BI` `DAX`</sub> |
+| 🚗 **[Car Sales Dashboard](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard)** | <sub>Executive dashboard tracking vehicle sales, revenue, and key business KPIs.</sub> | <sub>`Power BI` `SQL` `DAX`</sub> |
+| 🌍 **[Global Terrorism Analytics](https://github.com/MohammedHamza224/Data-Analysis-for-Global-Terrorism)** | <sub>Exploratory analysis of global terrorism trends, regional patterns, and attack insights.</sub> | <sub>`Python` `Pandas` `Matplotlib` `Seaborn`</sub> |
+| 🦴 **[Bone Marrow Cancer Analytics](https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis)** | <sub>Exploratory medical data analysis using Python visualizations.</sub> | <sub>`Python` `Pandas` `Matplotlib`</sub> |
+| 🏥 **[Hospital Performance Dashboard](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard)** | <sub>Healthcare analytics monitoring hospital operations, patient flow, and performance metrics.</sub> | <sub>`Power BI` `Power Query`</sub> |
  
  
  
