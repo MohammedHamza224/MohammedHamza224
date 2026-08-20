@@ -263,20 +263,83 @@ me.say_hello()
    
 
  
+## 🛠️ Tech Stack
 
-## 🛠️ Languages and Tools
- <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Power_Query-00B294?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-6F2DBD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-</p>
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center" width="33%">
+
+### 📊 BI & Visualization
+
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Power_Query-00A98F?style=flat-square"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️ Data & Programming
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data_Modeling-475569?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL-475569?style=flat-square"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI & Automation
+
+<br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-6F2DBD?style=flat-square&logo=microsoft&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Workflow_Automation-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Analytics-0F766E?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_Agents-0F766E?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<sub>Building data-driven solutions across Business Intelligence, Analytics, Automation & AI.</sub>
+
+</div>
+ 
 
 ---
 
