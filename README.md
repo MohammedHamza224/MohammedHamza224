@@ -1,49 +1,47 @@
- <img src="images/GitHub Cover.jpeg" alt="GitHub Cover" width="100%" height="450">
+<img src="images/GitHub Cover.jpeg" alt="Mohammed Hamza - GitHub Cover" width="100%" />
 
- <div align="center">
+<div align="center">
 
 <a href="https://github.com/MohammedHamza224">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1400&color=0F766E&center=true&vCenter=true&width=950&height=120&lines=AI+Analytics+Engineer+%7C+Data+Analyst+%7C+Former+PM;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+ETL+%E2%80%A2+Data+Modeling;Data+Visualization+%E2%80%A2+DAX+%E2%80%A2+Automation+%E2%80%A2+n8n;%F0%9F%92%BC+Open+to+Data+Analyst+%26+BI+Opportunities" alt="AI Analytics Engineer | Data Analyst | Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1400&color=0F766E&center=true&vCenter=true&width=950&height=120&lines=AI+Analytics+Engineer+%7C+Data+Analyst+%7C+Automation;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+ETL+%E2%80%A2+Data+Modeling;Data+Visualization+%E2%80%A2+DAX+%E2%80%A2+Automation+%E2%80%A2+n8n;%F0%9F%92%BC+Open+to+Data+Analyst+%26+BI+Opportunities" alt="AI Analytics Engineer | Data Analyst | Automation" />
 
 </a>
 
 </div>
 
+---
 
- 
- ## 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```python
 class DataProfessional:
 
     def __init__(self):
         self.name = "Mohammed Hamza"
-        self.role = "Data Analyst"
+        self.role = "AI Analytics Engineer | Data Analyst | Automation"
         self.location = "Khobar, Saudi Arabia 🇸🇦"
 
         self.languages = ["Arabic", "English"]
 
         self.experience = {
             "Project Management": "5+ Years",
-            "Data Analytics": "Specializing in Business Intelligence and Analytics"
+            "Data Analytics": "Business Intelligence & Analytics"
         }
 
-        self.certification_preparation = [
-            "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
-        ]
-
         self.background = (
-            "Former Project Manager with 5+ years of experience in projects management, "
-            "now specializing in Data Analytics and Business Intelligence."
+            "Former Project Manager with 5+ years of project management experience, "
+            "now specializing in Data Analytics, Business Intelligence, "
+            "AI Analytics, and Workflow Automation."
         )
 
         self.currently_learning = [
             "Advanced SQL",
             "Python for Data Analysis",
-            "AI Analytics Engineer",
+            "AI Analytics Engineering",
             "Data Engineering",
-            "Microsoft Fabric"
+            "Microsoft Fabric",
+            "n8n Automation"
         ]
 
         self.skills = {
@@ -63,8 +61,15 @@ class DataProfessional:
                 "NumPy",
                 "Matplotlib"
             ],
-            "Databases": [
-                "SQL Server"
+            "Data Engineering": [
+                "ETL",
+                "Data Modeling",
+                "Microsoft Fabric"
+            ],
+            "Automation": [
+                "n8n",
+                "Workflow Automation",
+                "AI Analytics"
             ],
             "Tools": [
                 "VS Code",
@@ -75,8 +80,8 @@ class DataProfessional:
     def say_hello(self):
         print(f"Hi 👋, I'm {self.name}")
         print(f"Role: {self.role}")
-        print(f"Previous Experience: {self.experience['Project Management']} in IT Project Management")
-        print("Transforming data into actionable insights.")
+        print(f"Previous Experience: {self.experience['Project Management']} in Project Management")
+        print("Transforming data into actionable business insights.")
         print(f"Currently learning: {', '.join(self.currently_learning)}")
 
 
@@ -84,29 +89,34 @@ me = DataProfessional()
 me.say_hello()
 ```
 
-## 🎓 Education
-
-- **Bachelor’s Degree in Information Technologies - Cairo University - 2013 ✅**
+---
 
 ## 🎓 Education & Professional Development
 
-### 📚 Courses
+### 🎓 Education
 
-- 🎓 **Professional AI Analytics Engineer Diploma** – Mazen Analytics *(In Progress)*
-- 🎓 **Professional Data Analyst Diploma[110 H]** – AI Coding Academy
-  - SQL Server
-  - Python for Data Analysis
-  - Power BI
-  - Tableau
-  - Microsoft Excel
-  - Statistics for Data Analysis
-  - Business Intelligence
+* **Bachelor's Degree in Information Technologies** — Cairo University, 2013 ✅
+
+### 📚 Professional Development
+
+* 🎓 **Professional AI Analytics Engineer Diploma** — Mazen Analytics *(In Progress)*
+* 🎓 **Professional Data Analyst Diploma [110H]** — AI Coding Academy
+
+  * SQL Server
+  * Python for Data Analysis
+  * Power BI
+  * Tableau
+  * Microsoft Excel
+  * Statistics for Data Analysis
+  * Business Intelligence
 
 ### 🏆 Certifications
 
-- 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** *(In Progress)*
-- 📜 **Oracle Databases Certificate** – IT e Share Academy
-- 📜 **Project Management Professional**  (PMP-35H) – PM-Tricks
+* 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** *(In Progress)*
+* 📜 **Oracle Databases Certificate** — IT e Share Academy
+* 📜 **Project Management Professional (PMP-35H)** — PM-Tricks
+
+---
 
 ## 📊 Featured Data Analytics Projects
 
@@ -131,11 +141,15 @@ me.say_hello()
 </td>
 
 <td>
-<sub>Workforce analytics focused on attrition, retention, workforce trends, and HR KPIs.</sub>
+<sub>Workforce analytics focused on employee attrition, retention, workforce trends, and HR KPIs.</sub>
 </td>
 
 <td align="center">
-<sub><code>Power BI</code> <code>DAX</code> <code>Power Query</code></sub>
+<sub>
+<code>Power BI</code>
+<code>DAX</code>
+<code>Power Query</code>
+</sub>
 </td>
 
 <td align="center">
@@ -156,7 +170,11 @@ me.say_hello()
 </td>
 
 <td align="center">
-<sub><code>Power BI</code> <code>DAX</code> <code>Power Query</code></sub>
+<sub>
+<code>Power BI</code>
+<code>DAX</code>
+<code>Power Query</code>
+</sub>
 </td>
 
 <td align="center">
@@ -177,7 +195,11 @@ me.say_hello()
 </td>
 
 <td align="center">
-<sub><code>Power BI</code> <code>SQL</code> <code>DAX</code></sub>
+<sub>
+<code>Power BI</code>
+<code>SQL</code>
+<code>DAX</code>
+</sub>
 </td>
 
 <td align="center">
@@ -198,7 +220,10 @@ me.say_hello()
 </td>
 
 <td align="center">
-<sub><code>Power BI</code> <code>Power Query</code></sub>
+<sub>
+<code>Power BI</code>
+<code>Power Query</code>
+</sub>
 </td>
 
 <td align="center">
@@ -219,7 +244,12 @@ me.say_hello()
 </td>
 
 <td align="center">
-<sub><code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Seaborn</code></sub>
+<sub>
+<code>Python</code>
+<code>Pandas</code>
+<code>Matplotlib</code>
+<code>Seaborn</code>
+</sub>
 </td>
 
 <td align="center">
@@ -240,7 +270,11 @@ me.say_hello()
 </td>
 
 <td align="center">
-<sub><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></sub>
+<sub>
+<code>Python</code>
+<code>Pandas</code>
+<code>Matplotlib</code>
+</sub>
 </td>
 
 <td align="center">
@@ -256,13 +290,13 @@ me.say_hello()
 <br>
 
 <a href="https://github.com/MohammedHamza224?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_Explore_All_Projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_Explore_All_Projects-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-   
 
- 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -339,32 +373,28 @@ me.say_hello()
 <sub>Building data-driven solutions across Business Intelligence, Analytics, Automation & AI.</sub>
 
 </div>
- 
 
 ---
 
 <div align="center">
 
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFFFFF&color=0:0F172A,50:1D4ED8,100:2563EB&animation=fadeIn"
-    width="100%"
-  />
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFFFFF&color=0:0F172A,50:0F766E,100:14B8A6&animation=fadeIn"
+width="100%"
+/>
 
-  <br/>
+<br/>
 
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1500&color=2563EB&center=true&vCenter=true&width=650&lines=Turning+Data+into+Business+Value;Building+AI-Powered+Analytics+Solutions;Automating+Workflows+with+n8n;Transforming+Ideas+into+Smart+Solutions"
-    alt="Typing Animation"
-  />
+<img 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=0F766E&center=true&vCenter=true&width=750&height=40&lines=Turning+Data+into+Business+Value;Building+AI-Powered+Analytics+Solutions;Automating+Workflows+with+n8n;Transforming+Ideas+into+Smart+Solutions"
+alt="Turning Data into Business Value"
+/>
 
-  <br/>
+<br/>
 
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1800&color=64748B&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80"
-    alt="Let's Build Something Amazing Together"
-  />
-
-</div>
-
+<img 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1800&color=64748B&center=true&vCenter=true&width=750&height=35&lines=%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!"
+alt="Let's Build Something Amazing Together"
+/>
 
 </div>
