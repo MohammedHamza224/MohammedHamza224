@@ -98,18 +98,160 @@ me.say_hello()
 - 📜 **Oracle Databases Certificate** – IT e Share Academy
 - 📜 **Project Management Professional**  (PMP-35H) – PM-Tricks
 
- ## 📊 Featured Data Analytics Projects
- 
- | Project | Description | Tech Stack |
-|:--------|:------------|:----------|
-| 👥 **[HR Attrition Dashboard](https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI)** | <sub>Workforce analytics for retention, turnover, and employee insights.</sub> | <sub>`Power BI` `DAX`</sub> |
-| ☕ **[Coffee Shop Sales Analysis](https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI)** | <sub>Interactive dashboard analyzing sales trends, customer behavior, and profitability.</sub> | <sub>`Power BI` `DAX`</sub> |
-| 🚗 **[Car Sales Dashboard](https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard)** | <sub>Executive dashboard tracking vehicle sales, revenue, and key business KPIs.</sub> | <sub>`Power BI` `SQL` `DAX`</sub> |
-| 🌍 **[Global Terrorism Analytics](https://github.com/MohammedHamza224/Data-Analysis-for-Global-Terrorism)** | <sub>Exploratory analysis of global terrorism trends, regional patterns, and attack insights.</sub> | <sub>`Python` `Pandas` `Matplotlib` `Seaborn`</sub> |
-| 🦴 **[Bone Marrow Cancer Analytics](https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis)** | <sub>Exploratory medical data analysis using Python visualizations.</sub> | <sub>`Python` `Pandas` `Matplotlib`</sub> |
-| 🏥 **[Hospital Performance Dashboard](https://github.com/MohammedHamza224/Hospital-Performance-Dashboard)** | <sub>Healthcare analytics monitoring hospital operations, patient flow, and performance metrics.</sub> | <sub>`Power BI` `Power Query`</sub> |
- 
- 
+## 📊 Featured Data Analytics Projects
+
+<div align="center">
+
+<table width="100%">
+<thead>
+<tr>
+<th width="22%">PROJECT</th>
+<th width="43%">DESCRIPTION</th>
+<th width="23%">TECH STACK</th>
+<th width="12%">LINK</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td align="center">
+<strong>👥 HR Analytics</strong><br>
+<sub>Workforce Intelligence</sub>
+</td>
+
+<td>
+<sub>Workforce analytics focused on attrition, retention, workforce trends, and HR KPIs.</sub>
+</td>
+
+<td align="center">
+<sub><code>Power BI</code> <code>DAX</code> <code>Power Query</code></sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI">
+<sub>🔗 View</sub>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>☕ Coffee Shop</strong><br>
+<sub>Sales Intelligence</sub>
+</td>
+
+<td>
+<sub>Interactive analysis of sales, revenue, products, transactions, and customer behavior.</sub>
+</td>
+
+<td align="center">
+<sub><code>Power BI</code> <code>DAX</code> <code>Power Query</code></sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI">
+<sub>🔗 View</sub>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>🚗 Car Sales</strong><br>
+<sub>Executive BI</sub>
+</td>
+
+<td>
+<sub>Executive dashboard covering vehicle sales, revenue, trends, and business KPIs.</sub>
+</td>
+
+<td align="center">
+<sub><code>Power BI</code> <code>SQL</code> <code>DAX</code></sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard">
+<sub>🔗 View</sub>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>🏥 Hospital</strong><br>
+<sub>Healthcare BI</sub>
+</td>
+
+<td>
+<sub>Healthcare analytics covering patient flow, hospital operations, and performance KPIs.</sub>
+</td>
+
+<td align="center">
+<sub><code>Power BI</code> <code>Power Query</code></sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/MohammedHamza224/Hospital-Performance-Dashboard">
+<sub>🔗 View</sub>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>🌍 Global Terrorism</strong><br>
+<sub>Exploratory Analytics</sub>
+</td>
+
+<td>
+<sub>Exploratory analysis of global trends, geographic patterns, and attack characteristics.</sub>
+</td>
+
+<td align="center">
+<sub><code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Seaborn</code></sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/MohammedHamza224/Data-Analysis-for-Global-Terrorism">
+<sub>🔗 View</sub>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>🦴 Medical Analytics</strong><br>
+<sub>Healthcare Data Analysis</sub>
+</td>
+
+<td>
+<sub>Medical data exploration focused on patterns, relationships, distributions, and visualization.</sub>
+</td>
+
+<td align="center">
+<sub><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis">
+<sub>🔗 View</sub>
+</a>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<br>
+
+<a href="https://github.com/MohammedHamza224?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Explore_All_Projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+   
+
  
 
 ## 🛠️ Languages and Tools
