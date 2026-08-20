@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Hamza.png" alt="Mohammed Hamza Banner" width="100%" height="450">
-</p>
+images/GitHub Cover.jpeg
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=01258F&width=435&lines=AI+Analytics+Engineer%7C+Data+Analyst+%7C+Former+PM;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+ETL+%E2%80%A2+Data+Modeling;Data+Visualization+%E2%80%A2+DAX+%E2%80%A2+Automation;%F0%9F%92%BC+Open+to+Data+Analyst+%26+BI+Opportunities.)](https://git.io/typing-svg)
  
