@@ -1,6 +1,16 @@
  <img src="images/GitHub Cover.jpeg" alt="GitHub Cover" width="100%" height="450">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=01258F&width=435&lines=AI+Analytics+Engineer%7C+Data+Analyst+%7C+Former+PM;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+ETL+%E2%80%A2+Data+Modeling;Data+Visualization+%E2%80%A2+DAX+%E2%80%A2+Automation;%F0%9F%92%BC+Open+to+Data+Analyst+%26+BI+Opportunities.)](https://git.io/typing-svg)
+ <div align="center">
+
+<a href="https://github.com/MohammedHamza224">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1400&color=0F766E&center=true&vCenter=true&width=950&height=120&lines=AI+Analytics+Engineer+%7C+Data+Analyst+%7C+Former+PM;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+ETL+%E2%80%A2+Data+Modeling;Data+Visualization+%E2%80%A2+DAX+%E2%80%A2+Automation+%E2%80%A2+n8n;%F0%9F%92%BC+Open+to+Data+Analyst+%26+BI+Opportunities" alt="AI Analytics Engineer | Data Analyst | Automation" />
+
+</a>
+
+</div>
+
+
  
  ## 👨‍💻 About Me
 
