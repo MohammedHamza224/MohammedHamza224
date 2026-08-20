@@ -130,16 +130,26 @@ me.say_hello()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFD700&color=0:1D4ED8,100:1E40AF&animation=fadeIn"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFFFFF&color=0:0F172A,50:1D4ED8,100:2563EB&animation=fadeIn"
+    width="100%"
+  />
+
+  <br/>
+
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1500&color=2563EB&center=true&vCenter=true&width=650&lines=Turning+Data+into+Business+Value;Building+AI-Powered+Analytics+Solutions;Automating+Workflows+with+n8n;Transforming+Ideas+into+Smart+Solutions"
+    alt="Typing Animation"
+  />
+
+  <br/>
+
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1800&color=64748B&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80"
+    alt="Let's Build Something Amazing Together"
+  />
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=01258F&center=true&vCenter=true&width=500&lines=Turning+Data+into+Business+Value" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=01258F&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80" />
 
 
 </div>
