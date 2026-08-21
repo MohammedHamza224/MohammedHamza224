@@ -119,7 +119,10 @@ me.say_hello()
 ---
 
 ## 📊 Featured Data Analytics Projects
- <div align="center">
+
+ ## 📊 Featured Data Analytics Projects
+
+<div align="center">
 
 <table width="100%">
 <thead>
@@ -133,10 +136,10 @@ me.say_hello()
 
 <tbody>
 
-<!-- RetoFlow ERP -->
+<!-- RestoFlow ERP -->
 <tr>
 <td align="center">
-<strong>🍽️ RetoFlow ERP</strong><br>
+<strong>🍽️ RestoFlow ERP</strong><br>
 <sub>Restaurant Management & BI</sub>
 </td>
 
@@ -152,16 +155,24 @@ Full-stack restaurant management system covering POS, inventory, orders, custome
 <code>TypeScript</code>
 <code>Supabase</code>
 <code>Tailwind</code>
-<code>Power BI</code>
 </sub>
 </td>
 
 <td align="center">
+
 <a href="https://github.com/MohammedHamza224/RetoFlow-ERP">
-<sub>🔗 View</sub>
+<sub>📦 Repository</sub>
 </a>
+
+<br>
+
+<a href="https://reto-flow-erp.vercel.app/">
+<sub>🚀 Live Demo</sub>
+</a>
+
 </td>
 </tr>
+
 
 <!-- HR Analytics -->
 <tr>
@@ -185,11 +196,14 @@ Workforce analytics focused on employee attrition, retention, workforce trends, 
 </td>
 
 <td align="center">
+
 <a href="https://github.com/MohammedHamza224/HR-Analytics-Dashboard-Power-BI">
-<sub>🔗 View</sub>
+<sub>🔗 Repository</sub>
 </a>
+
 </td>
 </tr>
+
 
 <!-- Coffee Shop -->
 <tr>
@@ -213,11 +227,14 @@ Interactive analysis of sales, revenue, products, transactions, and customer beh
 </td>
 
 <td align="center">
+
 <a href="https://github.com/MohammedHamza224/Coffee-Shop-Sales-Analysis-Dashboard-Power-BI">
-<sub>🔗 View</sub>
+<sub>🔗 Repository</sub>
 </a>
+
 </td>
 </tr>
+
 
 <!-- Car Sales -->
 <tr>
@@ -241,11 +258,14 @@ Executive dashboard covering vehicle sales, revenue, trends, and business KPIs.
 </td>
 
 <td align="center">
+
 <a href="https://github.com/MohammedHamza224/Car-Sales-Analysis-Dashboard">
-<sub>🔗 View</sub>
+<sub>🔗 Repository</sub>
 </a>
+
 </td>
 </tr>
+
 
 <!-- Hospital -->
 <tr>
@@ -268,11 +288,14 @@ Healthcare analytics covering patient flow, hospital operations, and performance
 </td>
 
 <td align="center">
+
 <a href="https://github.com/MohammedHamza224/Hospital-Performance-Dashboard">
-<sub>🔗 View</sub>
+<sub>🔗 Repository</sub>
 </a>
+
 </td>
 </tr>
+
 
 <!-- Global Terrorism -->
 <tr>
@@ -297,11 +320,14 @@ Exploratory analysis of global trends, geographic patterns, and attack character
 </td>
 
 <td align="center">
+
 <a href="https://github.com/MohammedHamza224/Data-Analysis-for-Global-Terrorism">
-<sub>🔗 View</sub>
+<sub>🔗 Repository</sub>
 </a>
+
 </td>
 </tr>
+
 
 <!-- Medical Analytics -->
 <tr>
@@ -325,9 +351,11 @@ Medical data exploration focused on patterns, relationships, distributions, and 
 </td>
 
 <td align="center">
+
 <a href="https://github.com/MohammedHamza224/-Bone-Marrow-Cancer-Analysis">
-<sub>🔗 View</sub>
+<sub>🔗 Repository</sub>
 </a>
+
 </td>
 </tr>
 
@@ -340,7 +368,7 @@ Medical data exploration focused on patterns, relationships, distributions, and 
 <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</div> 
 ---
 
 ## 🛠️ Tech Stack
