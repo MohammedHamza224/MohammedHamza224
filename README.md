@@ -119,8 +119,7 @@ me.say_hello()
 ---
 
 ## 📊 Featured Data Analytics Projects
-
-<div align="center">
+ <div align="center">
 
 <table width="100%">
 <thead>
@@ -134,6 +133,37 @@ me.say_hello()
 
 <tbody>
 
+<!-- RetoFlow ERP -->
+<tr>
+<td align="center">
+<strong>🍽️ RetoFlow ERP</strong><br>
+<sub>Restaurant Management & BI</sub>
+</td>
+
+<td>
+<sub>
+Full-stack restaurant management system covering POS, inventory, orders, customers, suppliers, purchasing, and business intelligence analytics.
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<code>React</code>
+<code>TypeScript</code>
+<code>Supabase</code>
+<code>Tailwind</code>
+<code>Power BI</code>
+</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/MohammedHamza224/RetoFlow-ERP">
+<sub>🔗 View</sub>
+</a>
+</td>
+</tr>
+
+<!-- HR Analytics -->
 <tr>
 <td align="center">
 <strong>👥 HR Analytics</strong><br>
@@ -141,7 +171,9 @@ me.say_hello()
 </td>
 
 <td>
-<sub>Workforce analytics focused on employee attrition, retention, workforce trends, and HR KPIs.</sub>
+<sub>
+Workforce analytics focused on employee attrition, retention, workforce trends, and HR KPIs.
+</sub>
 </td>
 
 <td align="center">
@@ -159,6 +191,7 @@ me.say_hello()
 </td>
 </tr>
 
+<!-- Coffee Shop -->
 <tr>
 <td align="center">
 <strong>☕ Coffee Shop</strong><br>
@@ -166,7 +199,9 @@ me.say_hello()
 </td>
 
 <td>
-<sub>Interactive analysis of sales, revenue, products, transactions, and customer behavior.</sub>
+<sub>
+Interactive analysis of sales, revenue, products, transactions, and customer behavior.
+</sub>
 </td>
 
 <td align="center">
@@ -184,6 +219,7 @@ me.say_hello()
 </td>
 </tr>
 
+<!-- Car Sales -->
 <tr>
 <td align="center">
 <strong>🚗 Car Sales</strong><br>
@@ -191,7 +227,9 @@ me.say_hello()
 </td>
 
 <td>
-<sub>Executive dashboard covering vehicle sales, revenue, trends, and business KPIs.</sub>
+<sub>
+Executive dashboard covering vehicle sales, revenue, trends, and business KPIs.
+</sub>
 </td>
 
 <td align="center">
@@ -209,6 +247,7 @@ me.say_hello()
 </td>
 </tr>
 
+<!-- Hospital -->
 <tr>
 <td align="center">
 <strong>🏥 Hospital</strong><br>
@@ -216,7 +255,9 @@ me.say_hello()
 </td>
 
 <td>
-<sub>Healthcare analytics covering patient flow, hospital operations, and performance KPIs.</sub>
+<sub>
+Healthcare analytics covering patient flow, hospital operations, and performance KPIs.
+</sub>
 </td>
 
 <td align="center">
@@ -233,6 +274,7 @@ me.say_hello()
 </td>
 </tr>
 
+<!-- Global Terrorism -->
 <tr>
 <td align="center">
 <strong>🌍 Global Terrorism</strong><br>
@@ -240,7 +282,9 @@ me.say_hello()
 </td>
 
 <td>
-<sub>Exploratory analysis of global trends, geographic patterns, and attack characteristics.</sub>
+<sub>
+Exploratory analysis of global trends, geographic patterns, and attack characteristics.
+</sub>
 </td>
 
 <td align="center">
@@ -259,6 +303,7 @@ me.say_hello()
 </td>
 </tr>
 
+<!-- Medical Analytics -->
 <tr>
 <td align="center">
 <strong>🦴 Medical Analytics</strong><br>
@@ -266,7 +311,9 @@ me.say_hello()
 </td>
 
 <td>
-<sub>Medical data exploration focused on patterns, relationships, distributions, and visualization.</sub>
+<sub>
+Medical data exploration focused on patterns, relationships, distributions, and visualization.
+</sub>
 </td>
 
 <td align="center">
@@ -294,7 +341,6 @@ me.say_hello()
 </a>
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
