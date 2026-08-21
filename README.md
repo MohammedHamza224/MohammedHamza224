@@ -120,8 +120,6 @@ me.say_hello()
 
 ## 📊 Featured Data Analytics Projects
 
- ## 📊 Featured Data Analytics Projects
-
 <div align="center">
 
 <table width="100%">
@@ -369,7 +367,7 @@ Medical data exploration focused on patterns, relationships, distributions, and 
 </a>
 
 </div> 
----
+
 
 ## 🛠️ Tech Stack
 
