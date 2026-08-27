@@ -14,26 +14,36 @@
 
 ## 👨‍💻 About Me
 
-```python
+ ```python
 class DataProfessional:
 
     def __init__(self):
         self.name = "Mohammed Hamza"
-        self.role = "AI Analytics Engineer | Data Analyst | Automation"
+        self.role = "AI Analytics Engineer | Data Analyst | BI & Automation"
         self.location = "Khobar, Saudi Arabia 🇸🇦"
 
         self.languages = ["Arabic", "English"]
 
-        self.experience = {
+        self.professional_background = {
             "Project Management": "5+ Years",
-            "Data Analytics": "Business Intelligence & Analytics"
+            "Data Analytics": "Business Intelligence & Data Analytics",
+            "Current Focus": "AI Analytics Engineering & Workflow Automation"
         }
 
         self.background = (
-            "Former Project Manager with 5+ years of project management experience, "
+            "Former Project Manager with 5+ years of experience in project management, "
             "now specializing in Data Analytics, Business Intelligence, "
-            "AI Analytics, and Workflow Automation."
+            "AI Analytics Engineering, and Workflow Automation."
         )
+
+        self.core_focus = [
+            "Business Intelligence",
+            "Data Analytics",
+            "AI Analytics Engineering",
+            "Workflow Automation",
+            "Data Engineering",
+            "Business Applications & ERP Systems"
+        ]
 
         self.currently_learning = [
             "Advanced SQL",
@@ -41,53 +51,90 @@ class DataProfessional:
             "AI Analytics Engineering",
             "Data Engineering",
             "Microsoft Fabric",
-            "n8n Automation"
+            "n8n Automation",
+            "AI Agents"
         ]
 
         self.skills = {
-            "Programming": [
+
+            "Programming & Data": [
                 "Python",
-                "SQL"
+                "SQL",
+                "Pandas",
+                "NumPy"
             ],
+
             "Business Intelligence": [
                 "Power BI",
                 "DAX",
                 "Power Query",
                 "Tableau"
             ],
-            "Data Analysis": [
-                "Excel",
-                "Pandas",
-                "NumPy",
-                "Matplotlib"
+
+            "Data Visualization": [
+                "Power BI",
+                "Matplotlib",
+                "Excel"
             ],
+
             "Data Engineering": [
                 "ETL",
                 "Data Modeling",
                 "Microsoft Fabric"
             ],
-            "Automation": [
+
+            "AI & Automation": [
+                "AI Analytics",
+                "AI Agents",
                 "n8n",
-                "Workflow Automation",
-                "AI Analytics"
+                "Workflow Automation"
             ],
+
+            "Business Systems": [
+                "ERP Systems",
+                "POS Systems",
+                "Inventory Management",
+                "Business Intelligence"
+            ],
+
             "Tools": [
+                "GitHub",
                 "VS Code",
-                "GitHub"
+                "Supabase",
+                "Vercel"
             ]
         }
+
+        self.featured_projects = [
+            "Supplyra ERP",
+            "RestoFlow ERP",
+            "Power BI Analytics Dashboards",
+            "AI & Automation Workflows"
+        ]
 
     def say_hello(self):
         print(f"Hi 👋, I'm {self.name}")
         print(f"Role: {self.role}")
-        print(f"Previous Experience: {self.experience['Project Management']} in Project Management")
-        print("Transforming data into actionable business insights.")
-        print(f"Currently learning: {', '.join(self.currently_learning)}")
+        print(f"Location: {self.location}")
+        print(
+            f"Previous Experience: "
+            f"{self.professional_background['Project Management']} "
+            f"in Project Management"
+        )
+        print(
+            "Transforming data into actionable business insights "
+            "through analytics, AI, and automation."
+        )
+        print(
+            f"Current Focus: "
+            f"{', '.join(self.core_focus)}"
+        )
 
 
 me = DataProfessional()
 me.say_hello()
 ```
+
 
 ---
 
