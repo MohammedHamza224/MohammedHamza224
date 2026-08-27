@@ -119,7 +119,7 @@ me.say_hello()
 ---
 
 ## 📊 Featured Data Analytics Projects
-
+ 
 <div align="center">
 
 <table width="100%">
@@ -134,7 +134,48 @@ me.say_hello()
 
 <tbody>
 
+<!-- Supplyra ERP -->
+
+<tr>
+<td align="center">
+<strong>📦 Supplyra ERP</strong><br>
+<sub>Supply Chain Management & BI</sub>
+</td>
+
+<td>
+<sub>
+Full-stack supply chain management and business intelligence system covering suppliers, products, inventory, purchasing, sales, stock management, analytics, and AI-powered automation workflows.
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<code>React</code>
+<code>TypeScript</code>
+<code>Supabase</code>
+<code>Tailwind CSS</code>
+<code>n8n</code>
+<code>AI Automation</code>
+</sub>
+</td>
+
+<td align="center">
+
+<a href="https://github.com/MohammedHamza224/Supplyra-ERP">
+<sub>📦 Repository</sub>
+</a>
+
+<br>
+
+<a href="https://lnkd.in/dUhDW5pS">
+<sub>🚀 Live Demo</sub>
+</a>
+
+</td>
+</tr>
+
 <!-- RestoFlow ERP -->
+
 <tr>
 <td align="center">
 <strong>🍽️ RestoFlow ERP</strong><br>
@@ -171,8 +212,8 @@ Full-stack restaurant management system covering POS, inventory, orders, custome
 </td>
 </tr>
 
-
 <!-- HR Analytics -->
+
 <tr>
 <td align="center">
 <strong>👥 HR Analytics</strong><br>
@@ -202,8 +243,8 @@ Workforce analytics focused on employee attrition, retention, workforce trends, 
 </td>
 </tr>
 
-
 <!-- Coffee Shop -->
+
 <tr>
 <td align="center">
 <strong>☕ Coffee Shop</strong><br>
@@ -233,8 +274,8 @@ Interactive analysis of sales, revenue, products, transactions, and customer beh
 </td>
 </tr>
 
-
 <!-- Car Sales -->
+
 <tr>
 <td align="center">
 <strong>🚗 Car Sales</strong><br>
@@ -264,8 +305,8 @@ Executive dashboard covering vehicle sales, revenue, trends, and business KPIs.
 </td>
 </tr>
 
-
 <!-- Hospital -->
+
 <tr>
 <td align="center">
 <strong>🏥 Hospital</strong><br>
@@ -294,8 +335,8 @@ Healthcare analytics covering patient flow, hospital operations, and performance
 </td>
 </tr>
 
-
 <!-- Global Terrorism -->
+
 <tr>
 <td align="center">
 <strong>🌍 Global Terrorism</strong><br>
@@ -326,8 +367,8 @@ Exploratory analysis of global trends, geographic patterns, and attack character
 </td>
 </tr>
 
-
 <!-- Medical Analytics -->
+
 <tr>
 <td align="center">
 <strong>🦴 Medical Analytics</strong><br>
@@ -366,7 +407,7 @@ Medical data exploration focused on patterns, relationships, distributions, and 
 <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div> 
+</div>
 
 
 ## 🛠️ Tech Stack
