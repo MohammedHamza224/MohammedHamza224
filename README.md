@@ -159,7 +159,7 @@ me.say_hello()
 
 ### 🏆 Certifications
 
-* 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** *(In Progress)*
+* 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** ✅ **Certified**
 * 📜 **Oracle Databases Certificate** — IT e Share Academy
 * 📜 **Project Management Professional (PMP-35H)** — PM-Tricks
 
