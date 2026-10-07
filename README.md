@@ -1,4 +1,4 @@
-<img src="images/GitHub Cover.jpeg" alt="Mohammed Hamza - GitHub Cover" width="100%" />
+<img src="d1.png" alt="Mohammed Hamza - GitHub Cover" width="100%" />
 
 <div align="center">
 
