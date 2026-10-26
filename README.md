@@ -167,7 +167,7 @@ me.say_hello()
 
 ## 📊 Featured Data Analytics Projects
  
-<div align="center">
+ <div align="center">
 
 <table width="100%">
 <thead>
@@ -180,6 +180,40 @@ me.say_hello()
 </thead>
 
 <tbody>
+
+<!-- Bunyan -->
+
+<tr>
+<td align="center">
+<strong>🏗️ Bunyan</strong><br>
+<sub>Construction Management & Financial System</sub>
+</td>
+
+<td>
+<sub>
+Full-stack construction management system designed to streamline contracting operations, including customer and site management, work tracking, approval workflows, quantity-based billing, invoicing, payment tracking, VAT calculations, financial reporting, and audit logging.
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<code>React</code>
+<code>TypeScript</code>
+<code>Vite</code>
+<code>Node.js</code>
+<code>REST API</code>
+<code>PGlite</code>
+</sub>
+</td>
+
+<td align="center">
+
+<a href="https://github.com/MohammedHamza224/Bunyan">
+<sub>🏗️ Repository</sub>
+</a>
+
+</td>
+</tr>
 
 <!-- Supplyra ERP -->
 
